@@ -43,6 +43,7 @@ public class JavaDateUtil {
 		System.out.println(date.getDayOfWeek());
 		
 		
+		
 		return null;
 	}
 }
